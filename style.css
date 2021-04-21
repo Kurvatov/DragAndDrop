@@ -7,7 +7,7 @@
     margin: 0;
     outline: 0;
     padding: 0;
-    font-family: Roboto-Regular;
+    font-family: Roboto-Regular, sans-serif;
 }
 
 html{
@@ -44,7 +44,7 @@ html{
     margin-left: 16px;
 }
  /*Main content*/
- 
+
 .container{
     box-sizing: border-box;
     width: 100%;
